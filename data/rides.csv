@@ -1,0 +1,201 @@
+distance_km,duration_min,time_of_day,traffic_level,weather_condition,demand_level,vehicle_type,day_of_week,pickup_zone,dropoff_zone,fuel_price_index,driver_rating,special_event,ride_price
+11.86,38.95,Morning,Medium,Clear,7,Sedan,Weekend,Airport,Suburb,99.84,4.32,No,157.52
+28.57,61.95,Afternoon,Medium,Clear,5,Luxury,Weekend,City Center,City Center,80.51,4.42,No,209.33
+22.23,51.64,Morning,Medium,Clear,3,Mini,Weekday,City Center,City Center,119.7,3.84,No,121.3
+18.36,69.72,Morning,High,Clear,3,Mini,Weekday,City Center,City Center,106.86,4.77,No,141.06
+5.52,17.75,Afternoon,Medium,Clear,4,Mini,Weekday,Suburb,City Center,92.68,4.14,Yes,88.62
+5.52,11.15,Night,Low,Rainy,2,SUV,Weekday,Suburb,City Center,115.17,3.71,No,103.47
+2.68,5.91,Night,High,Clear,2,Mini,Weekday,Suburb,City Center,90.34,4.5,Yes,86.53
+26.12,86.9,Morning,High,Cloudy,1,Mini,Weekday,City Center,City Center,101.76,3.82,No,152.27
+18.43,37.05,Afternoon,High,Clear,5,Mini,Weekday,Suburb,City Center,105.44,3.65,Yes,157.67
+21.53,49.99,Morning,Medium,Cloudy,4,Mini,Weekday,Airport,Suburb,88.84,4.79,No,188.65
+1.6,4.95,Evening,Medium,Cloudy,10,Mini,Weekday,Suburb,Residential,119.14,4.19,Yes,109.53
+29.13,98.56,Evening,Medium,Clear,2,Sedan,Weekday,Airport,City Center,109.93,4.62,No,252.37
+25.14,83.06,Morning,High,Clear,3,Sedan,Weekday,Suburb,Residential,102.31,3.94,No,194.01
+7.16,17.53,Night,High,Clear,7,Mini,Weekday,Suburb,Residential,87.22,4.68,No,101.34
+6.27,21.48,Night,Low,Clear,7,Mini,Weekday,Suburb,City Center,82.15,3.67,No,74.28
+6.32,15.64,Morning,Low,Rainy,4,Mini,Weekend,City Center,Suburb,92.8,4.03,No,81.43
+9.82,26.04,Morning,Medium,Cloudy,5,Mini,Weekday,City Center,Suburb,110.13,4.97,No,95.27
+16.22,56.65,Evening,High,Rainy,5,Sedan,Weekday,Suburb,Suburb,90.77,4.69,No,173.52
+13.53,44.63,Night,High,Clear,6,Sedan,Weekday,City Center,City Center,101.58,4.25,No,129.83
+9.45,34.93,Morning,Low,Cloudy,9,Mini,Weekday,Suburb,Suburb,109.12,4.01,No,109.29
+18.74,62.14,Evening,Medium,Rainy,2,Sedan,Weekend,Airport,City Center,84.32,4.81,No,209.5
+5.05,15.83,Night,Medium,Clear,5,Mini,Weekend,Suburb,Suburb,107.41,4.32,No,97.94
+9.47,20.72,Afternoon,High,Clear,3,SUV,Weekday,City Center,Suburb,83.67,4.64,No,108.75
+11.62,31.8,Evening,High,Cloudy,4,Sedan,Weekend,City Center,Suburb,118.61,4.63,No,117.02
+14.23,36.0,Night,High,Clear,10,Sedan,Weekend,City Center,Suburb,99.54,3.53,No,133.91
+23.77,59.14,Night,Medium,Cloudy,6,Mini,Weekend,Suburb,Suburb,86.03,3.69,No,175.28
+6.79,26.8,Evening,Medium,Clear,8,SUV,Weekend,Suburb,City Center,93.7,4.49,No,125.65
+15.91,44.34,Afternoon,Low,Cloudy,1,Mini,Weekend,Airport,City Center,96.54,3.74,No,141.44
+18.18,68.79,Evening,Low,Clear,10,Mini,Weekday,City Center,Residential,110.33,3.88,No,149.45
+2.35,7.66,Night,High,Clear,8,Mini,Weekday,Airport,City Center,109.74,4.92,No,104.41
+18.62,66.83,Morning,High,Clear,7,Mini,Weekday,Suburb,City Center,104.48,4.34,No,155.33
+5.95,17.87,Morning,High,Cloudy,1,Luxury,Weekday,City Center,City Center,84.24,4.63,No,122.76
+2.89,9.1,Evening,High,Cloudy,2,SUV,Weekday,Suburb,City Center,86.06,4.34,No,82.05
+28.52,85.13,Night,Medium,Clear,3,Mini,Weekday,City Center,Residential,83.75,4.33,Yes,243.67
+29.0,69.33,Morning,Medium,Clear,1,Sedan,Weekday,City Center,Suburb,103.09,3.64,Yes,238.41
+24.44,84.21,Night,High,Rainy,9,Luxury,Weekend,Suburb,Residential,115.09,4.02,No,286.67
+9.83,25.19,Evening,High,Clear,8,SUV,Weekend,City Center,Suburb,97.35,3.92,No,120.7
+3.83,7.85,Morning,Low,Cloudy,2,Sedan,Weekday,Suburb,Suburb,86.43,4.09,No,74.67
+20.84,68.59,Night,Medium,Clear,9,SUV,Weekday,Suburb,City Center,102.32,4.7,No,204.34
+13.76,32.4,Morning,Low,Clear,7,Luxury,Weekend,Suburb,Suburb,112.47,4.06,No,181.66
+4.54,17.62,Evening,High,Clear,9,Sedan,Weekday,City Center,City Center,109.67,4.18,No,97.01
+15.36,60.03,Night,Medium,Clear,6,Mini,Weekend,Suburb,Residential,115.26,4.1,No,153.02
+2.0,7.65,Morning,Low,Cloudy,6,Sedan,Weekday,Suburb,Residential,91.12,3.64,No,63.88
+27.37,75.0,Evening,Medium,Clear,4,SUV,Weekday,Suburb,City Center,87.76,4.16,No,208.74
+8.5,17.27,Morning,Medium,Clear,10,Mini,Weekend,City Center,Residential,115.19,3.79,No,106.83
+20.21,77.95,Morning,Medium,Rainy,10,SUV,Weekday,City Center,Residential,106.3,3.78,No,190.52
+10.04,28.68,Afternoon,Low,Clear,2,Mini,Weekday,Suburb,Suburb,92.44,3.64,No,83.74
+16.08,63.26,Afternoon,Medium,Clear,7,Mini,Weekend,City Center,City Center,109.69,4.04,No,129.15
+16.85,66.19,Evening,Medium,Rainy,5,Mini,Weekday,Suburb,Suburb,112.6,4.64,Yes,213.42
+6.36,23.57,Afternoon,Medium,Cloudy,6,Mini,Weekday,Suburb,Suburb,104.6,3.91,No,83.61
+29.12,75.38,Evening,Medium,Clear,2,Luxury,Weekend,Suburb,City Center,107.52,3.97,No,236.03
+23.48,65.04,Afternoon,High,Rainy,5,SUV,Weekday,Suburb,City Center,95.01,4.46,No,205.56
+28.25,104.57,Morning,Medium,Cloudy,10,SUV,Weekend,Airport,Suburb,101.55,3.79,No,289.61
+26.95,70.98,Evening,Medium,Clear,4,Sedan,Weekday,Suburb,City Center,100.97,4.85,No,186.49
+18.34,42.89,Evening,High,Clear,9,Mini,Weekday,Airport,Suburb,113.92,4.28,No,191.21
+27.73,86.35,Morning,Medium,Cloudy,6,Sedan,Weekday,Suburb,Residential,113.6,4.17,No,225.53
+3.57,13.81,Evening,Low,Cloudy,2,Sedan,Weekday,City Center,Residential,113.31,4.34,Yes,95.42
+6.68,22.67,Evening,Low,Clear,1,Sedan,Weekend,City Center,City Center,80.44,3.75,No,76.33
+2.31,7.26,Afternoon,Medium,Rainy,5,Mini,Weekend,Suburb,Residential,109.98,4.42,No,88.2
+10.43,22.9,Evening,Medium,Cloudy,9,Sedan,Weekday,City Center,City Center,110.35,4.04,No,113.73
+12.27,39.64,Night,Medium,Clear,6,Sedan,Weekend,City Center,City Center,107.14,4.85,No,125.21
+8.87,35.3,Morning,Low,Clear,10,Luxury,Weekday,City Center,Suburb,110.25,3.75,No,153.15
+25.03,57.08,Afternoon,Low,Clear,7,SUV,Weekday,Suburb,City Center,113.68,4.26,No,186.63
+11.35,34.45,Afternoon,Low,Cloudy,5,Sedan,Weekday,Suburb,City Center,98.81,4.4,No,119.65
+9.15,34.35,Night,Medium,Clear,10,Sedan,Weekday,Suburb,Suburb,100.08,3.55,Yes,156.91
+16.74,58.27,Morning,Medium,Clear,6,Sedan,Weekday,Suburb,City Center,84.99,4.05,No,139.23
+5.09,17.26,Morning,Medium,Cloudy,5,Mini,Weekend,Suburb,City Center,95.42,4.6,Yes,103.48
+24.26,82.62,Afternoon,Medium,Rainy,9,SUV,Weekday,City Center,Suburb,105.73,4.73,No,210.97
+3.16,8.6,Evening,High,Clear,6,SUV,Weekday,Suburb,Suburb,111.22,3.97,No,105.04
+29.62,76.63,Afternoon,Medium,Cloudy,8,Sedan,Weekday,City Center,Suburb,88.69,4.7,No,201.05
+23.4,84.66,Morning,Medium,Clear,2,Mini,Weekday,Airport,City Center,85.51,4.95,No,200.61
+6.76,24.48,Night,Medium,Cloudy,9,Mini,Weekend,Suburb,Suburb,106.52,4.79,No,121.78
+1.16,4.33,Afternoon,Medium,Clear,5,Sedan,Weekday,City Center,City Center,80.08,3.68,No,46.34
+24.65,94.32,Morning,Medium,Clear,7,Mini,Weekday,City Center,City Center,87.13,4.61,No,163.55
+21.5,64.98,Afternoon,High,Cloudy,10,SUV,Weekday,City Center,Suburb,81.16,3.98,No,178.61
+22.14,66.49,Evening,High,Clear,1,Mini,Weekday,City Center,City Center,86.68,4.98,No,152.01
+23.37,84.04,Afternoon,Low,Clear,10,Mini,Weekday,City Center,City Center,87.25,4.23,No,157.5
+3.15,10.39,Afternoon,High,Cloudy,5,SUV,Weekday,Suburb,Suburb,95.51,3.68,No,82.82
+11.4,38.79,Morning,Medium,Cloudy,10,Sedan,Weekend,Suburb,Suburb,96.09,4.59,No,150.81
+4.36,15.66,Morning,Low,Cloudy,2,Mini,Weekend,Suburb,Suburb,114.97,3.98,No,76.93
+26.03,98.39,Morning,Medium,Cloudy,6,Mini,Weekday,Airport,City Center,100.4,5.0,No,229.77
+19.08,51.05,Afternoon,High,Clear,1,Mini,Weekday,Suburb,City Center,108.94,4.97,Yes,184.51
+10.6,29.15,Evening,Medium,Clear,3,Sedan,Weekday,Suburb,City Center,84.17,4.48,No,104.73
+2.84,6.22,Night,Medium,Clear,5,Mini,Weekday,City Center,City Center,89.02,3.69,No,55.58
+10.02,31.62,Night,Medium,Clear,4,Sedan,Weekday,Suburb,Suburb,108.12,4.53,Yes,148.87
+10.43,21.61,Morning,Low,Rainy,3,Luxury,Weekday,City Center,Residential,82.11,3.64,No,141.19
+22.16,64.95,Morning,Low,Clear,10,Mini,Weekday,Airport,Suburb,99.46,3.54,No,194.11
+19.49,60.13,Afternoon,Low,Clear,5,SUV,Weekday,Suburb,Suburb,103.97,4.73,No,184.12
+26.73,68.78,Night,Low,Clear,8,Luxury,Weekday,Suburb,Suburb,104.09,3.81,No,249.73
+14.69,46.75,Morning,Low,Rainy,4,Mini,Weekday,City Center,Suburb,80.92,4.07,No,108.73
+4.47,9.21,Evening,Low,Clear,1,SUV,Weekday,Suburb,City Center,92.88,4.96,Yes,104.3
+21.68,44.99,Evening,Medium,Clear,7,Sedan,Weekday,Suburb,Suburb,105.46,4.01,No,162.17
+23.06,84.07,Morning,Low,Clear,8,SUV,Weekday,City Center,Suburb,85.96,3.94,No,179.42
+17.28,47.0,Morning,Medium,Cloudy,3,Sedan,Weekend,City Center,City Center,107.82,4.88,No,133.42
+23.36,52.65,Night,High,Clear,6,Sedan,Weekday,Suburb,City Center,109.84,3.67,No,172.02
+15.32,46.64,Night,Medium,Rainy,2,Sedan,Weekend,City Center,Residential,119.28,4.64,No,151.69
+16.16,57.2,Afternoon,Medium,Rainy,7,SUV,Weekday,Airport,City Center,88.39,4.98,No,208.75
+13.4,32.58,Night,Low,Clear,8,Sedan,Weekend,City Center,City Center,113.01,4.85,No,133.3
+1.74,5.64,Evening,Low,Cloudy,6,Sedan,Weekday,City Center,Suburb,100.81,4.48,No,66.02
+4.13,8.96,Evening,Low,Rainy,6,SUV,Weekend,Suburb,Suburb,94.94,3.97,No,99.5
+1.91,4.02,Morning,Low,Cloudy,5,Mini,Weekend,City Center,Suburb,84.9,3.88,No,44.65
+19.46,59.59,Night,Low,Clear,8,Mini,Weekday,Suburb,Suburb,109.42,4.73,No,167.85
+10.12,31.17,Afternoon,Low,Clear,1,Mini,Weekday,City Center,City Center,89.43,4.82,No,80.47
+15.75,51.57,Evening,Low,Cloudy,10,Mini,Weekday,City Center,Suburb,94.86,4.29,No,133.82
+27.32,94.31,Evening,Low,Clear,4,Mini,Weekday,Suburb,City Center,82.5,3.87,No,184.32
+8.23,32.52,Afternoon,Medium,Cloudy,4,SUV,Weekday,Suburb,Residential,112.05,3.67,No,122.12
+12.9,39.12,Afternoon,Low,Rainy,3,Mini,Weekday,Suburb,Suburb,110.66,3.63,No,117.69
+22.91,60.62,Evening,Medium,Rainy,3,Sedan,Weekday,Suburb,City Center,109.34,4.58,No,182.46
+7.64,27.41,Evening,Medium,Clear,4,Mini,Weekday,Suburb,City Center,91.98,4.13,No,70.94
+3.23,8.22,Afternoon,Medium,Clear,1,SUV,Weekend,City Center,City Center,86.94,4.86,No,89.1
+9.4,27.06,Evening,Low,Rainy,2,Luxury,Weekday,City Center,City Center,105.5,4.61,No,138.55
+5.68,12.24,Morning,Medium,Cloudy,9,Sedan,Weekend,Airport,City Center,99.85,3.79,No,103.82
+27.96,57.34,Morning,Medium,Clear,10,SUV,Weekday,Suburb,Suburb,87.13,4.42,No,220.7
+24.44,95.92,Afternoon,Low,Rainy,2,Mini,Weekday,Suburb,Suburb,107.44,4.15,No,171.88
+19.37,71.12,Night,High,Rainy,5,SUV,Weekday,City Center,City Center,119.65,4.37,No,178.85
+26.27,89.11,Afternoon,High,Clear,9,Mini,Weekday,City Center,City Center,109.89,4.61,No,188.25
+24.31,68.49,Afternoon,Low,Clear,9,SUV,Weekend,Suburb,City Center,109.6,4.71,Yes,268.85
+6.41,15.04,Night,Low,Clear,8,Mini,Weekday,Suburb,Residential,118.01,4.77,No,104.44
+26.88,62.18,Night,High,Clear,1,Sedan,Weekend,Suburb,City Center,88.12,3.88,No,179.38
+16.64,41.61,Night,Medium,Clear,1,SUV,Weekday,Suburb,Suburb,102.62,3.55,No,139.52
+24.42,75.65,Morning,Low,Cloudy,9,Mini,Weekday,Suburb,Residential,119.19,4.61,No,201.62
+26.99,92.54,Evening,Low,Clear,8,Mini,Weekday,City Center,Suburb,86.61,3.66,No,178.65
+10.22,33.94,Morning,Medium,Clear,10,Mini,Weekday,City Center,Residential,108.01,3.97,No,110.62
+4.19,10.73,Evening,Medium,Clear,9,Mini,Weekday,City Center,City Center,103.43,3.51,Yes,83.76
+7.61,29.75,Morning,Medium,Clear,7,Sedan,Weekday,City Center,Residential,103.46,4.52,No,99.46
+13.39,46.53,Evening,Medium,Rainy,3,Mini,Weekday,Suburb,City Center,107.91,3.75,No,131.89
+24.72,76.85,Morning,Medium,Clear,3,Mini,Weekday,City Center,City Center,117.18,4.48,No,155.51
+25.96,83.68,Night,Medium,Clear,2,Mini,Weekday,Suburb,Suburb,111.3,4.99,Yes,253.58
+1.2,3.41,Afternoon,Low,Cloudy,5,SUV,Weekday,City Center,Residential,82.25,3.61,No,64.67
+15.81,39.46,Morning,Low,Clear,3,Mini,Weekday,City Center,Residential,114.11,3.62,No,103.97
+13.1,35.54,Evening,Medium,Clear,6,Mini,Weekday,City Center,City Center,89.02,4.01,No,105.43
+7.44,26.16,Night,High,Clear,2,Mini,Weekday,City Center,City Center,95.08,4.8,No,87.86
+4.48,9.08,Morning,Medium,Clear,3,Sedan,Weekday,Suburb,Residential,98.47,3.82,No,77.81
+10.79,24.09,Morning,Medium,Clear,5,SUV,Weekday,City Center,City Center,99.24,4.04,No,108.5
+28.34,59.3,Night,Low,Clear,1,Mini,Weekday,Suburb,Suburb,97.41,3.6,No,163.85
+10.37,21.59,Morning,Medium,Clear,1,Mini,Weekday,City Center,Residential,117.49,4.64,No,91.6
+16.04,59.54,Afternoon,Medium,Rainy,10,SUV,Weekend,City Center,Suburb,108.24,4.11,Yes,229.11
+21.39,72.87,Morning,Low,Clear,9,SUV,Weekday,City Center,City Center,105.25,4.64,No,172.68
+11.55,34.04,Afternoon,Low,Clear,7,Mini,Weekday,Suburb,Suburb,81.99,4.86,Yes,136.2
+29.18,64.07,Afternoon,Medium,Cloudy,1,SUV,Weekday,Suburb,City Center,116.16,3.85,No,196.25
+28.91,86.25,Night,Low,Clear,8,SUV,Weekday,City Center,Residential,116.38,4.71,Yes,300.28
+8.3,24.46,Morning,Medium,Cloudy,3,Mini,Weekday,City Center,Suburb,111.21,3.59,No,71.8
+15.42,36.18,Night,Low,Clear,8,SUV,Weekday,Suburb,Residential,80.28,4.85,No,166.58
+9.73,27.89,Morning,Medium,Rainy,5,Sedan,Weekend,City Center,City Center,82.29,4.48,No,109.2
+9.26,25.9,Morning,Low,Clear,1,Sedan,Weekday,City Center,Residential,89.01,4.81,No,94.03
+2.07,6.69,Evening,High,Clear,7,Mini,Weekday,Suburb,Suburb,85.25,3.5,No,60.38
+18.68,61.08,Morning,Medium,Clear,5,Mini,Weekday,Suburb,City Center,95.95,3.75,Yes,169.84
+15.58,32.57,Night,Medium,Rainy,6,SUV,Weekday,City Center,City Center,116.9,4.08,No,141.36
+2.49,6.85,Afternoon,Medium,Clear,6,Luxury,Weekday,Airport,Suburb,98.88,4.07,No,146.61
+9.08,29.53,Morning,Medium,Clear,8,Sedan,Weekday,Suburb,Suburb,80.54,3.84,No,102.15
+27.34,82.19,Evening,Low,Clear,9,Sedan,Weekday,City Center,Residential,91.31,4.07,No,208.07
+7.95,29.51,Night,Medium,Cloudy,2,Sedan,Weekend,Suburb,City Center,81.78,3.69,No,97.49
+5.2,17.26,Morning,Medium,Clear,9,Sedan,Weekday,Suburb,City Center,81.45,4.12,Yes,96.46
+15.19,35.34,Night,Medium,Rainy,10,Mini,Weekday,City Center,Suburb,91.03,4.7,No,138.81
+29.58,63.34,Evening,Medium,Clear,9,Mini,Weekday,City Center,City Center,91.02,4.22,No,171.36
+8.02,26.34,Evening,Low,Clear,10,SUV,Weekday,City Center,Suburb,111.49,3.53,No,116.8
+20.49,42.07,Night,Low,Clear,10,Mini,Weekday,Suburb,Residential,118.99,4.13,No,165.95
+23.09,73.22,Morning,Medium,Clear,7,SUV,Weekday,City Center,Residential,94.85,3.54,No,179.95
+7.89,30.62,Afternoon,Medium,Clear,1,Mini,Weekend,Suburb,Residential,97.16,4.95,No,97.73
+22.12,69.69,Evening,Medium,Clear,7,Mini,Weekend,Suburb,Suburb,113.79,3.69,No,175.7
+11.67,32.39,Morning,Medium,Cloudy,10,Mini,Weekday,City Center,City Center,90.73,4.56,No,96.04
+19.34,63.55,Morning,High,Clear,5,Sedan,Weekend,Suburb,Suburb,86.26,4.96,No,187.92
+19.37,56.5,Afternoon,Medium,Clear,6,SUV,Weekday,City Center,Suburb,114.12,4.74,No,162.77
+16.54,51.12,Evening,Low,Clear,10,Mini,Weekday,Suburb,Residential,81.86,4.55,No,160.86
+3.62,14.05,Evening,Low,Clear,7,SUV,Weekday,Suburb,City Center,104.79,4.76,No,103.31
+25.22,69.93,Morning,Low,Clear,5,Sedan,Weekend,City Center,Suburb,102.48,4.97,No,180.32
+10.3,40.41,Morning,Low,Clear,7,SUV,Weekday,City Center,City Center,93.84,4.43,No,122.54
+6.41,24.42,Afternoon,Low,Clear,9,Mini,Weekday,City Center,Suburb,92.61,4.34,No,80.81
+2.18,5.22,Afternoon,Low,Rainy,3,SUV,Weekday,City Center,Residential,110.87,4.44,No,86.91
+18.14,38.79,Evening,Low,Rainy,8,SUV,Weekday,City Center,Suburb,83.46,4.3,Yes,205.19
+20.65,45.46,Night,Low,Clear,2,Mini,Weekday,City Center,City Center,89.47,4.45,No,123.99
+1.48,3.02,Evening,High,Clear,7,Mini,Weekday,Airport,Residential,109.3,4.17,No,81.0
+15.85,34.7,Morning,Low,Cloudy,2,SUV,Weekday,City Center,Suburb,101.93,3.83,No,122.51
+7.57,25.48,Evening,Medium,Clear,4,Luxury,Weekday,City Center,City Center,85.12,3.68,No,135.58
+19.71,42.23,Night,Medium,Clear,7,Mini,Weekday,Suburb,City Center,115.29,3.6,No,135.0
+6.06,15.98,Afternoon,High,Clear,3,Sedan,Weekday,City Center,City Center,95.74,3.89,No,73.4
+21.04,77.62,Night,Low,Cloudy,2,SUV,Weekday,Airport,City Center,113.11,3.57,No,209.95
+12.22,25.0,Night,Medium,Cloudy,10,SUV,Weekday,Suburb,Residential,111.51,4.35,No,163.64
+28.17,102.21,Night,High,Clear,7,Luxury,Weekday,Suburb,Suburb,104.98,3.93,No,285.25
+4.99,12.79,Afternoon,High,Clear,1,SUV,Weekday,City Center,Residential,99.78,4.74,No,99.75
+10.89,24.36,Night,High,Clear,8,Sedan,Weekday,City Center,City Center,119.18,3.61,No,104.24
+4.29,14.56,Night,Low,Cloudy,3,Mini,Weekend,City Center,City Center,85.8,3.84,No,61.64
+27.82,90.62,Night,Low,Clear,2,Mini,Weekday,Suburb,Suburb,109.01,4.6,No,189.71
+26.44,99.29,Morning,Medium,Clear,3,Sedan,Weekday,City Center,City Center,87.65,4.4,No,179.68
+8.48,29.43,Night,High,Cloudy,5,Sedan,Weekday,City Center,Suburb,93.53,3.6,No,104.36
+20.14,72.64,Afternoon,Medium,Clear,8,Mini,Weekday,Airport,Residential,92.35,4.82,Yes,274.36
+24.7,63.33,Night,Medium,Cloudy,10,SUV,Weekday,City Center,Suburb,117.88,4.82,No,212.15
+17.1,40.27,Night,Low,Clear,7,Sedan,Weekday,City Center,Suburb,118.69,4.0,No,132.23
+16.36,57.28,Afternoon,Medium,Clear,7,Sedan,Weekday,City Center,City Center,87.32,4.01,Yes,171.76
+8.01,28.96,Night,Low,Clear,7,Sedan,Weekday,Airport,City Center,80.88,4.98,No,124.37
+3.7,14.73,Afternoon,Medium,Cloudy,8,Sedan,Weekend,City Center,City Center,108.8,4.44,No,91.8
+27.02,76.34,Night,Medium,Rainy,1,Mini,Weekend,Suburb,Suburb,96.72,4.3,No,195.36
+27.11,74.4,Afternoon,Medium,Cloudy,4,Mini,Weekday,Suburb,City Center,83.55,4.76,No,169.41
+19.36,68.78,Night,Low,Clear,6,Mini,Weekday,City Center,City Center,107.35,3.93,No,132.86
+10.83,29.05,Night,Low,Cloudy,9,Mini,Weekend,Suburb,Suburb,101.8,4.14,No,118.26
+11.13,42.97,Morning,Medium,Clear,2,Sedan,Weekday,City Center,City Center,119.22,3.9,No,96.11
+22.05,81.97,Morning,Low,Clear,1,Sedan,Weekday,City Center,City Center,89.1,4.68,No,149.01
+27.02,77.21,Night,Medium,Rainy,10,Mini,Weekend,Suburb,City Center,96.16,4.36,No,216.0
+26.73,93.59,Night,Low,Clear,2,SUV,Weekday,Suburb,Residential,101.7,4.49,No,230.0
+23.62,82.87,Evening,Medium,Clear,7,Mini,Weekday,Suburb,Suburb,111.67,3.88,No,178.79
